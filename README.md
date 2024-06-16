@@ -49,7 +49,7 @@ Check out the live demo of the app [here](https://app-movie-recommender.streamli
 ## 📂 Project Structure
 
 ```
-movie-recommender-app/
+Streamlit-Movie-Recommender/
 │
 ├── movie_recommendation_app.py     # Main Streamlit app script
 ├── tmdb_5000_credits.csv           # Dataset with movie credits
